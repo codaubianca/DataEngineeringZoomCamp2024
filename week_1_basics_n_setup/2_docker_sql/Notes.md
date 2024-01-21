@@ -50,7 +50,6 @@ python ingest_data.py \
   --url=${URL}
 ```
 
-
 #### Use Dockerfile
 1)
 ```

@@ -2,7 +2,7 @@
 *local/
 .ipynb_checkpoints/
 *keys/
-
+*output*
 .terraform/
 *.tfstate
 *.tfstate*
