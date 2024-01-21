@@ -1,3 +1,10 @@
 *data/
 *local/
 .ipynb_checkpoints/
+*keys/
+
+.terraform/
+*.tfstate
+*.tfstate*
+*.lock
+*.lock.*
