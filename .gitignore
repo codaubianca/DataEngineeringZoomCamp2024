@@ -1,6 +1,9 @@
 *data/
 *local/
 .ipynb_checkpoints/
+__pycache__/
+
+# week one
 *keys/
 *output*
 .terraform/
@@ -8,3 +11,6 @@
 *.tfstate*
 *.lock
 *.lock.*
+
+# week two
+.env
