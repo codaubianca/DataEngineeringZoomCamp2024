@@ -19,3 +19,7 @@ __pycache__/
 
 # week three
 week_3_data_warehouse/mage_etl_pipeline/DataEngineeringZoomCamp2024
+
+# week 4
+*/.dbt
+*/logs
